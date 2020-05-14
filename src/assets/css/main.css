@@ -8,8 +8,8 @@ body{
 }
 .masthead{
     position: relative;
-    height: 500px;
-    background: linear-gradient(115deg, rgba(58,58,158,0.8), rgba(136,136,206,0.7)),url('../img/icon.jpg') no-repeat;
+    height: 600px;
+    background: linear-gradient(115deg, rgba(58,58,158,0.8), rgba(136,136,206,0.7)),url('../img/full-stack.jpg') no-repeat;
     background-size: 100% 100%;
     
 }
