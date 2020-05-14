@@ -1,0 +1,41 @@
+body{
+    padding-bottom: 400px;
+}
+
+.logo,
+.section-1 h2{
+    font-family: 'Allura', cursive;
+}
+.masthead{
+    position: relative;
+    height: 500px;
+    background: linear-gradient(115deg, rgba(58,58,158,0.8), rgba(136,136,206,0.7)),url('../img/icon.jpg') no-repeat;
+    background-size: 100% 100%;
+    
+}
+
+.top-info{
+    color: beige;
+    width: 100%;
+    clear: both;
+    background: rgba(0, 0, 0, 0.2);
+    min-height: 40px;
+    line-height: 40px;
+    height: 30px;
+}
+.navbar-bg{
+    background: rgba(0, 0, 0, 0.7);
+}
+.logo{
+    font-size: 30px;
+    color: #deb150 !important;
+}
+
+.map {
+    position: relative;
+    height: 600px;
+    background: url('../img/map.jpg') no-repeat;
+    background-size: 100% 100%;
+
+}
+
