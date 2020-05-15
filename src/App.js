@@ -1,10 +1,10 @@
 import React from 'react';
 //import logo from './logo.svg';
-import Portfolio from './components/Portfolio'
+import Project from './components/Project'
 import './App.css';
 
 function App() {
-  const portfolioLinks = [
+  const projectLinks = [
     {
       title: 'Threads',
       caption: 'Illustration'
@@ -115,7 +115,8 @@ function App() {
   </header>
 
 
-<section class="map">
+  <Project projectlioLinks={projectLinks}></Project>
+<section class="map contacts">
         <div class="box">
             <div>
                 <span>Lorem</span>

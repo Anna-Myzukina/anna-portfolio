@@ -1,5 +1,5 @@
 
-### Live version
+### Live version.
 [Anna Muzykina personal portfolio](https://anna-myzukina.github.io/anna-portfolio/)
 
 
