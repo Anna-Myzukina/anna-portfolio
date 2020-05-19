@@ -36,6 +36,9 @@ body {
     animation: logo-zoom infinite 20s linear;
 }
 
+.card {
+    width: 18rem;
+}
 .map {
     position: relative;
     height: 600px;
